@@ -1,19 +1,24 @@
 {
   "name": "simple_timer",
   "version": "0.1.0",
-  "description": "Timer using hrtime() and a stack structure.",
+  "description": "Simple stackable timer.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "homepage": "https://github.com/j-klassen/timer",
+  "author": {
+    "name": "Jake Klassen",
+    "email": "jklassendev@gmail.com"
+  },
+  "engines": {
+    "node": "*"
   },
   "keywords": [
     "timer"
   ],
   "private": true,
-  "author": "Jake Klassen",
+  "readmeFilename": "README.md",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/j-klassen/timer"
   }
 }
